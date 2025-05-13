@@ -1,4 +1,5 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://www.open-epg.com/files/czech3.xml.gz"
+
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-chno="268" tvg-logo="http://192.168.128.116/picon/1_0_1F_10C_2111_20CB_EEEE0000_0_0_0.png" tvg-id="1:0:1F:10C:2111:20CB:EEEE0000:0:0:0:" tvg-name="CT 1 PHA HD T2",CT 1 PHA HD T2
 #EXTVLCOPT:program=268
