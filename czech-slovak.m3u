@@ -32,6 +32,8 @@ http://194.160.135.34:8088/udp/233.10.47.61:1234
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Cool.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/V6Cv7k4f/prima-cool.png" group-title="Czech/Slovak",Prima COOL
 http://212.102.38.45/live/prima_cool_cz_hevc/index.m3u8
+#EXTINF:-1 tvg-id="Paramount Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/0jp8SmqF/parammount-network.png" group-title="Czech/Slovak",Prima Paramount Network
+http://185.236.230.212:9981/play/a0as
 #EXTINF:-1 tvg-id="Prima ZOOM.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/T2nhghpQ/prima-zoom.png" group-title="Czech/Slovak",Prima ZOOM
 http://88.212.15.19/live/test_prima_zoom_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Krimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/J4GrKnh9/prima-krimi.png" group-title="Czech/Slovak",Prima KRIMI
@@ -50,11 +52,6 @@ http://149.100.19.130:8001/play/a00a/index.m3u8
 http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima LOVE SK.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/VNkBRTBW/prima_love_sk.png" group-title="Czech/Slovak",Prima LOVE SK
 http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Paramount Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/0jp8SmqF/parammount-network.png" group-title="Czech/Slovak",Paramount Network
-http://185.236.230.212:9981/play/a0as
-#EXTINF:-1 tvg-id="Warner TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/yNQnvTnH/warner_TV.png" group-title="Czech/Slovak",Warner TV
-http://213.215.119.236:88/Warner_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Seznam.cz TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/FFfWF5Cj/seznam_tv.png" group-title="Czech/Slovak",Seznam.cz TV
 http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
