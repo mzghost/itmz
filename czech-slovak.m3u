@@ -8,10 +8,9 @@ http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
 http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/t4j3WLqn/ct-sport.png" group-title="Czech/Slovak",ČT sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT :D.cz" tvg-url="decko.cz" tvg-url="ctart.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/sg4pcwx6/ct-d-art.png" group-title="Czech/Slovak",ČT :D/art
-http://194.160.135.34:8088/udp/233.10.47.119:1234
+#EXTINF:-1 tvg-id="ČT :D.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/sg4pcwx6/ct-d-art.png" group-title="Czech/Slovak",ČT :D
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ČT :D.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/sg4pcwx6/ct-d-art.png" group-title="Czech/Slovak",ČT art
+#EXTINF:-1 tvg-id="ČT art.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/sg4pcwx6/ct-d-art.png" group-title="Czech/Slovak",ČT art
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nova.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/bvdstTt2/nova.png" group-title="Czech/Slovak" ,Nova
