@@ -271,6 +271,8 @@ http://213.215.119.236:88/Eurosport2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/3N3rz74q/skysport_f1_4k.png" group-title="Czech/Slovak",SkySport F1 4K
 http://188.227.186.127:8080/catena-17-1149961-streamer-f1-pit-lane/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/3N3rz74q/skysport_f1_4k.png" group-title="Czech/Slovak",Sky Sport F1 FHD UK
+https://32tech0steam0dp01.org/live/UK_SkySportF1FHD/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/ydmYfWd9/sky_sport_f1_hd.png" group-title="Czech/Slovak",SkySport F1
 http://cord-cutter.net:8080/live/95549031/69361122/35244.ts
 #EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/KjN0Z79N/sky_sport_moto_gp.png" group-title="Czech/Slovak",SkySport Moto GP
