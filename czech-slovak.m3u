@@ -315,11 +315,11 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33912
 #EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:-1,tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Dance TV Channel 1 - Best of Dance TV
+#EXTINF:-1,tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Dance TV Channel 1-Best of Dance TV
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1,tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Dance TV Channel 2 - Deep House
+#EXTINF:-1,tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Dance TV Channel 2-Deep House
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
-#EXTINF:-1,tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Dance TV Channel 3 - Techno Warehouse
+#EXTINF:-1,tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Dance TV Channel 3-Techno Warehouse
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-id="Rebel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/Yq39DVNW/rebel.png" group-title="Czech/Slovak",REBEL
