@@ -352,5 +352,5 @@ http://88.212.15.19/live/test_minimax/playlist.m3u8
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/59DNbr77/cartoon-network.png" group-title="Czech/Slovak",Cartoon Network
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=1221&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
-#EXTINF:-1 tvg-id="Tom a Jerry" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Tom & Jerry
+#EXTINF:-1 tvg-id="Tom a Jerry" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/9XPDcTBT/tom-jerry.png" group-title="Czech/Slovak",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
