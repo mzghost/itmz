@@ -283,8 +283,7 @@ http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="Canal+ Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/rmQcYw3Y/canal-sport2.png" group-title="Czech/Slovak",CANAL+ Sport 2
 http://78.130.250.2:8023/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="Canal+ Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/9f681QRG/canal-sport-3.png" group-title="Czech/Slovak",CANAL+ Sport 3
-http://116.202.237.33:8080/CNLS3/tracks-v
-1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
 #EXTINF:-1 tvg-id="MTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/Xvt9BnQm/mtv.png"group-title="Czech/Slovak",MTV.cz
 http://194.160.135.34:8088/udp/233.10.47.68:1234
