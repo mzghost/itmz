@@ -322,7 +322,6 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="Deluxe Dance BG" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Deluxe Dance 
 http://83.228.75.166:8000/play/a0bi
 #EXTINF:-1 tvg-id="Deluxe Rap BG" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Deluxe Rap
-#EXTINF:-1 group-title="-",Deluxe Rap BG
 http://83.228.75.166:8000/play/a0by
 
 #EXTINF:-1 tvg-id="VEVO Retro Rock" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak", VEVO Retro Rock
