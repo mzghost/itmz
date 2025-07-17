@@ -300,6 +300,8 @@ https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
 http://88.212.15.19/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV 00s (pl).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/jjQCpG1B/mtv-00.png" group-title="Czech/Slovak",MTV 00s (HEVC)
 http://88.212.15.19/live/test_vh1_sd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-id="VH1 🇺🇸" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/q7hD83RJ/deejay-tv.png" group-title="Czech/Slovak",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -315,6 +317,35 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33912
 #EXTINF:-1 tvg-id="Rock TV" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/zGXBqGzk/Rock-TV.png" group-title="Czech/Slovak",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+
+#EXTINF:-1 tvg-id="Deluxe Dance BG" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Deluxe Dance 
+http://83.228.75.166:8000/play/a0bi
+#EXTINF:-1 tvg-id="Deluxe Rap BG" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Deluxe Rap
+#EXTINF:-1 group-title="-",Deluxe Rap BG
+http://83.228.75.166:8000/play/a0by
+
+#EXTINF:-1 tvg-id="VEVO Retro Rock" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak", VEVO Retro Rock
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
+#EXTINF:-1 tvg-id="Vevo '70s" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak", Vevo '70s
+https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8
+#EXTINF:-1 tvg-id="Vevo '80s" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak", Vevo '80s
+https://d17i214xp3vw8a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5vjb8mjxp73gd/Vevo_80s.m3u8
+#EXTINF:-1 tvg-id="Vevo '90s" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak", Vevo '90s
+https://d321u5fu9qef79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yinfe6h5dj8i1/Vevo_90s.m3u8
+#EXTINF:-1 tvg-id="Vevo 2010s" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak", Vevo 2010s
+https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8
+#EXTINF:-1 tvg-id="Vevo 2K" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak", Vevo 2K
+https://d4dkvp1ga8v8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkvocv263tp96/Vevo_2K.m3u8
+#EXTINF:-1 tvg-id="Vevo Features" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak", Vevo Features
+https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8
+#EXTINF:-1 tvg-id="Vevo Pop" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak", Vevo Pop
+https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8
+#EXTINF:-1 tvg-id="Vevo Hip Hop" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak", Vevo Hip Hop
+https://d14y8035xivxd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46idq7bdmcbwf/Vevo_Hip_Hop.m3u8
+#EXTINF:-1 tvg-id="Vevo R&B" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak", Vevo R&B
+https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irsyy4yjtdieo/Vevo_R_B.m3u8
+
 #EXTINF:-1 tvg-id="Dance TV Channel 1" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/85BQFLwf/Dance-TV-Channel-1.png" group-title="Czech/Slovak",Dance TV Channel 1 - Best of Dance TV
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
 #EXTINF:-1 tvg-id="Dance TV Channel 2" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/BbSW2twY/Dance-TV-Channel-2.png" group-title="Czech/Slovak",Dance TV Channel 2  - Deep House
