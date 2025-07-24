@@ -383,3 +383,12 @@ http://88.212.15.19/live/test_disney_junior/playlist.m3u8
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=1221&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
 #EXTINF:-1 tvg-id="Tom a Jerry" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/9XPDcTBT/tom-jerry.png" group-title="Czech/Slovak",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+
+
+
+# RADIO #
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Express
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=971&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
+
+
