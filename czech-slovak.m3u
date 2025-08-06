@@ -411,7 +411,7 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=943&device=9bdeddba3ce4
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=957&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Lumen
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=967&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title=Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Patria
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Patria
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=951&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Slovakia International
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=949&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=ottradio&changed_at=1742507476&shaping=0&eta=1&ets=1
@@ -442,4 +442,5 @@ http://live.slovakradio.sk:8000/FM_128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Rock
 https://stream.bauermedia.sk/rock-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio TechnoBase FM
+
 
