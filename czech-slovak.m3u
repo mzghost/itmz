@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/czech3.xml.gz"
 
-#EXTINF:-1 #EXTINF:-1 tvg-id="ČT1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/fLryC0Yg/ct-1.png" group-title="Czech/Slovak",ČT 1
+#EXTINF:-1 tvg-id="ČT1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/fLryC0Yg/ct-1.png" group-title="Czech/Slovak",ČT 1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ČT2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/y62XYD2P/ct-2.png" group-title="Czech/Slovak",ČT 2
 http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
@@ -442,5 +442,6 @@ http://live.slovakradio.sk:8000/FM_128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Rock
 https://stream.bauermedia.sk/rock-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio TechnoBase FM
+
 
 
