@@ -38,7 +38,7 @@ http://185.188.188.237:5000/live/paramount/playlist.m3u8
 http://88.212.15.19/live/test_prima_zoom_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Prima MAX.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/sDqVLrQ1/prima-max.png" group-title="Czech/Slovak",Prima MAX
-http://185.188.188.237:5000/live/primamax/playlist.m3u8
+http://194.160.135.34:8088/udp/233.10.47.59:1234
 #EXTINF:-1 tvg-id="Prima LOVE.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/qM1NsC2T/prima-love.png" group-title="Czech/Slovak",Prima LOVE
 http://185.236.230.212:9981/play/a0b3
 #EXTINF:-1 tvg-id="Prima Star.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/8zv1Q0M4/prima-star.png" group-title="Czech/Slovak",Prima STAR
@@ -445,6 +445,7 @@ http://live.slovakradio.sk:8000/FM_128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Rock
 https://stream.bauermedia.sk/rock-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio TechnoBase FM
+
 
 
 
