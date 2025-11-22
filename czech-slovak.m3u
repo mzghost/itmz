@@ -233,10 +233,10 @@ http://213.215.119.236:88/Nova_sport_2/index.m3u8
 http://213.215.119.236:88/Nova_sport_3/index.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 4.cz" tvg-logo="https://i.postimg.cc/fybwGWfS/nova_sport_4.png" group-title="Czech/Slovak",Nova Sport 4
 http://213.215.119.236:88/Nova_sport_4/index.m3u8
-#EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-logo="https://i.postimg.cc/y81JVB6j/nova_sport_5.png" group-title="Czech/Slovak",Nova Sport 5
-http://185.236.230.212:9981/play/a0bq
+#EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-logo="https://i.postimg.cc/y81JVB6j/nova_sport_5.png" group-title="Czech/Slovak",Nova Sport 5 CZ
+http://185.188.188.237:5000/live/novasport5/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-logo="https://i.postimg.cc/fR8VyFJN/nova_sport_5_sk.png" group-title="Czech/Slovak",Nova Sport 5 SK
-http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+https://176.116.105.82/NovaSport5_HD/index.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 6.cz" tvg-logo="https://i.postimg.cc/QdH84xrj/nova-sport-6.png" group-title="Czech/Slovak",Nova Sport 6 FHD
 http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
 #EXTINF:-1 tvg-id="Nova Sport 6.cz" tvg-logo="https://i.postimg.cc/QdH84xrj/nova-sport-6.png" group-title="Czech/Slovak",Nova Sport 6
@@ -444,6 +444,7 @@ http://live.slovakradio.sk:8000/FM_128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Rock
 https://stream.bauermedia.sk/rock-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio TechnoBase FM
+
 
 
 
