@@ -31,16 +31,17 @@ http://194.160.135.34:8088/udp/233.10.47.61:1234
 #EXTINF:-1 tvg-id="Prima.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/jdK2XKfT/prima.png" group-title="Czech/Slovak",Prima
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Cool.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/V6Cv7k4f/prima-cool.png" group-title="Czech/Slovak",Prima COOL
-http://212.102.38.45/live/prima_cool_cz_hevc/index.m3u8
+http://185.188.188.237:5000/live/primacool/playlist.m3u8
 #EXTINF:-1 tvg-id="Paramount Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/0jp8SmqF/parammount-network.png" group-title="Czech/Slovak",Prima Paramount Network
 http://185.188.188.237:5000/live/paramount/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima ZOOM.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/T2nhghpQ/prima-zoom.png" group-title="Czech/Slovak",Prima ZOOM
 http://88.212.15.19/live/test_prima_zoom_hevc/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="Prima MAX.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/sDqVLrQ1/prima-max.png" group-title="Czech/Slovak",Prima MAX
 http://185.188.188.237:5000/live/primamax/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima LOVE.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/qM1NsC2T/prima-love.png" group-title="Czech/Slovak",Prima LOVE
-http://185.236.230.212:9981/play/a0b3
+http://185.188.188.237:5000/live/primalove/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Star.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/8zv1Q0M4/prima-star.png" group-title="Czech/Slovak",Prima STAR
 http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Show.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/0NdPrKtJ/prima-show.png" group-title="Czech/Slovak",Prima SHOW
@@ -98,7 +99,7 @@ https://dvr2.kablova.tv/JOJ_24/index.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/Tw1b9x5Q/joj-sport.png" group-title="Czech/Slovak",JOJ Šport
 http://88.212.15.19/live/test_joj_sport_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/Yq4R9yrv/joj_sport2.png" group-title="Czech/Slovak",JOJ Šport 2
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2423&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+https://176.116.105.82/JOJSport2_HD/index.m3u8
 #EXTINF:-1 tvg-id="WAU.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/MHBBjYgY/joj-wau.png" group-title="Czech/Slovak",JOJ WAU
 http://88.212.15.19/live/test_wau_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Jojko.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/4d0920zG/joj-jojko.png" group-title="Czech/Slovak",JOJ Jojko
@@ -176,11 +177,11 @@ http://88.212.15.19/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/Bv75wgm9/history_2.png" group-title="Czech/Slovak", History Channel 2
 http://212.102.38.45/live/test_h2/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat Explore.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/59LVp3xq/Viasat-Explore.png" group-title="Czech/Slovak",Viasat Explore
-http://185.236.230.212:9981/play/a0c3
+http://185.188.188.237:5000/live/viasatexplore/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat History.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/LXyHS4bk/Viasat-History.png" group-title="Czech/Slovak",Viasat History
-http://185.236.230.212:9982/play/a08o
+http://185.188.188.237:5000/live/viasathistory/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Viasat Nature
-http://185.236.230.212:9982/play/a08p
+http://185.188.188.237:5000/live/viasatnature/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Spektrum.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/sD37h64j/spektrum.png" group-title="Czech/Slovak",Spektrum
 http://88.212.15.19/live/test_spektrum/playlist.m3u8
@@ -445,6 +446,7 @@ http://live.slovakradio.sk:8000/FM_128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Rock
 https://stream.bauermedia.sk/rock-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio TechnoBase FM
+
 
 
 
