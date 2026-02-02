@@ -278,13 +278,6 @@ http://cord-cutter.net:8080/live/95549031/69361122/35244.ts
 #EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/KjN0Z79N/sky_sport_moto_gp.png" group-title="Czech/Slovak",SkySport Moto GP
 http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/75534
 
-#EXTINF:-1 tvg-id="Canal+ Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/g0yG8DDp/canal-sport.png" group-title="Czech/Slovak",CANAL+ Sport 1
-http://78.130.250.2:8023/play/a02v/index.m3u8
-#EXTINF:-1 tvg-id="Canal+ Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/rmQcYw3Y/canal-sport2.png" group-title="Czech/Slovak",CANAL+ Sport 2
-http://78.130.250.2:8023/play/a02w/index.m3u8
-#EXTINF:-1 tvg-id="Canal+ Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/9f681QRG/canal-sport-3.png" group-title="Czech/Slovak",CANAL+ Sport 3
-http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-
 #EXTINF:-1 tvg-id="VH1 🇺🇸" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/q7hD83RJ/deejay-tv.png" group-title="Czech/Slovak",Deejay TV
@@ -427,6 +420,7 @@ http://live.slovakradio.sk:8000/FM_128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Rock
 https://stream.bauermedia.sk/rock-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio TechnoBase FM
+
 
 
 
