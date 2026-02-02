@@ -176,6 +176,8 @@ http://185.188.188.237:5000/live/viasatexplore/playlist.m3u8
 http://185.188.188.237:5000/live/viasathistory/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Viasat Nature
 http://185.188.188.237:5000/live/viasatnature/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.hnonline.sk/images/slike/2025/09/01/5954889.png" group-title="Czech/Slovak",Kanal 1
+http://212.102.38.45/live/test_upnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Spektrum.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/sD37h64j/spektrum.png" group-title="Czech/Slovak",Spektrum
 http://88.212.15.19/live/test_spektrum/playlist.m3u8
@@ -440,6 +442,7 @@ http://live.slovakradio.sk:8000/FM_128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Rock
 https://stream.bauermedia.sk/rock-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio TechnoBase FM
+
 
 
 
