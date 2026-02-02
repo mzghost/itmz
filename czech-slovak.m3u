@@ -285,23 +285,8 @@ http://78.130.250.2:8023/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="Canal+ Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/9f681QRG/canal-sport-3.png" group-title="Czech/Slovak",CANAL+ Sport 3
 http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
 
-#EXTINF:-1 tvg-id="MTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/Xvt9BnQm/mtv.png" group-title="Czech/Slovak",MTV.cz
-http://194.160.135.34:8088/udp/233.10.47.68:1234
-#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/rpDSpDC5/mtv_hd.png" group-title="Czech/Slovak",MTV Live HD
-http://185.236.229.62:9981/play/a063
-#EXTINF:-1 tvg-id="MTV Hits" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/x8bTGWnq/mtv_hits.png"1 group-title="Czech/Slovak",MTV Hits
-http://88.212.15.19/live/test_mtv_hits_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Club MTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/wBhrN2CH/mtv-club.png" group-title="Czech/Slovak",MTV Club
-http://88.212.15.19/live/test_mtv_dance_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="V1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/0yWYxYm8/mtv_80.png" group-title="Czech/Slovak",MTV 80s
-https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="" tvg-id="MTV 90s (pl).cz" tvg-country="CZ" tvg-language="Czech" group-title="Czech/Slovak",MTV 90s
-http://88.212.15.19/live/test_mtv_rocks_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV 00s (pl).cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/jjQCpG1B/mtv-00.png" group-title="Czech/Slovak",MTV 00s (HEVC)
-http://88.212.15.19/live/test_vh1_sd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="VH1 🇺🇸" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/q7hD83RJ/deejay-tv.png" group-title="Czech/Slovak",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="4Fun.TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/0yHHMf9X/4-fan-tv.png" group-title="Czech/Slovak",4Fun.TV
@@ -442,6 +427,7 @@ http://live.slovakradio.sk:8000/FM_128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Rock
 https://stream.bauermedia.sk/rock-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio TechnoBase FM
+
 
 
 
