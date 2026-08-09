@@ -35,7 +35,6 @@ http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
 http://185.188.188.237:5000/live/primacool/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima ZOOM.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/T2nhghpQ/prima-zoom.png" group-title="Czech/Slovak",Prima ZOOM
 http://88.212.15.19/live/test_prima_zoom_hevc/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Prima Star.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/8zv1Q0M4/prima-star.png" group-title="Czech/Slovak",Prima STAR
 http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Show.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/0NdPrKtJ/prima-show.png" group-title="Czech/Slovak",Prima SHOW
@@ -43,7 +42,7 @@ http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN Prima News.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/L4y4zfmt/prima-cnn-news.png" group-title="Czech/Slovak",Prima CNN News
 http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima SK.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/L5kXpQrG/prima-sk.png" group-title="Czech/Slovak",Prima SK
-http://149.100.19.130:8001/play/a00a/index.m3u8
+http://46.149.191.219:9104/play/a00b
 #EXTINF:-1 tvg-id="Prima COOL SK.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/SsCQ6tNj/prima-cool-sk.png" group-title="Czech/Slovak",Prima COOL SK
 http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Krimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/J4GrKnh9/prima-krimi.png" group-title="Czech/Slovak",Prima KRIMI SK
@@ -76,7 +75,7 @@ http://88.212.15.19/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="TV DAJTO.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/zXmKY9R2/markiza-dajto.png" group-title="Czech/Slovak",Markíza Dajto
 http://88.212.15.19/live/test_dajto_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Markíza International.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/5ykxbcs7/markiza-international.png" group-title="Czech/Slovak",Markíza International
-http://185.236.230.212:9981/play/a0bi
+http://46.149.191.219:9106/play/a005
 
 #EXTINF:-1 tvg-id="JOJ.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/CMnktFdf/joj.png" group-title="Czech/Slovak",JOJ
 http://88.212.15.19/live/test_joj_25p/playlist.m3u8
@@ -89,15 +88,15 @@ http://88.212.15.19/live/test_pluska_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Svet.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/9X9wbJNd/joj-svet.png" group-title="Czech/Slovak",JOJ Svet
 http://88.212.15.19/live/test_joj_svet/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ 24.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/Dz2LSL29/joj-24.png" group-title="Czech/Slovak",JOJ 24
-https://dvr2.kablova.tv/JOJ_24/index.m3u8
+https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/Tw1b9x5Q/joj-sport.png" group-title="Czech/Slovak",JOJ Šport
 http://88.212.15.19/live/test_joj_sport_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/Yq4R9yrv/joj_sport2.png" group-title="Czech/Slovak",JOJ Šport 2
-https://176.116.105.82/JOJSport2_HD/index.m3u8
-#EXTINF:-1 tvg-id="WAU.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/MHBBjYgY/joj-wau.png" group-title="Czech/Slovak",JOJ WAU
+http://46.149.191.219:9109/play/a03p
+#EXTINF:-1 tvg-id="WAU.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/MHBBjYgY/joj-wau.png" group-title="Czech/Slovak",JOJ Krimi
 http://88.212.15.19/live/test_wau_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Jojko.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/4d0920zG/joj-jojko.png" group-title="Czech/Slovak",JOJ Jojko
-http://88.212.15.19/live/test_jojko_25p/playlist.m3u8
+http://212.102.38.45/live/test_jojko_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TA3.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/Bv8n6nrT/ta_3.png" group-title="Czech/Slovak",TA3 (HEVC)
 http://88.212.15.19/live/test_ta3_25p/playlist.m3u8
@@ -113,38 +112,36 @@ http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/ncdyq7Nb/cinemax-2.png" group-title="Czech/Slovak",Cinemax 2
 http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Filmbox.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/DZdD0b1N/filmbox.png" group-title="Czech/Slovak",Filmbox
+#EXTINF:-1 tvg-id="Filmbox.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/DZdD0b1N/filmbox.png" group-title="Czech/Slovak",Filmbox+ One
 http://88.212.15.19/live/test_filmbox/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox Extra HD.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/K8wCHbZ0/filmbox-extra.png" group-title="Czech/Slovak",Filmbox Extra
+#EXTINF:-1 tvg-id="Filmbox Extra HD.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/K8wCHbZ0/filmbox-extra.png" group-title="Czech/Slovak",Filmbox+ Emotion
 http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox Stars.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/Pxk9dMvZ/filmbox-stars.png" group-title="Czech/Slovak",FilmBox Stars
+#EXTINF:-1 tvg-id="Filmbox Stars.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/Pxk9dMvZ/filmbox-stars.png" group-title="Czech/Slovak",FilmBox+ Love & Crime
 http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox Family.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/TY9D02cX/filmbox-femily.png" group-title="Czech/Slovak",Filmbox Family
+#EXTINF:-1 tvg-id="Filmbox Family.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/TY9D02cX/filmbox-femily.png" group-title="Czech/Slovak",Filmbox+ Comedy
 http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmbox Premium.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/GpD60ftd/filmbox-premium.png" group-title="Czech/Slovak",Filmbox Premium
+#EXTINF:-1 tvg-id="Filmbox Premium.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/GpD60ftd/filmbox-premium.png" group-title="Czech/Slovak",Filmbox+ Hits
 http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmBox Arthouse.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/filmeurope.png" group-title="Všeobecné",FilmBox Arthouse
+https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Film+.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/fbWYgm0w/film.png" group-title="Czech/Slovak",Film+
 http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Film Europe.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/8cg6Kj3T/film-evrope.png" group-title="Czech/Slovak",Film Europe
-http://194.160.135.34:8088/udp/233.10.47.62:1234
-#EXTINF:-1 tvg-id="Epic Drama.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/5tYWvvBg/epic-drama.png" group-title="Czech/Slovak",Epic Drama
-http://185.236.230.212:9981/play/a0bg
+http://185.188.188.237:5000/live/filmeurope/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal+ Action.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/q7YnKmxh/canal-action.png" group-title="Czech/Slovak",Canal Plus Action
-http://185.236.230.212:9981/play/a0bw
-#EXTINF:-1 tvg-id="Spark TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/9XyT4YR0/spark.png" group-title="Czech/Slovak",Spark
-http://88.212.15.19/live/test_upnetwork/playlist.m3u8
+http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/Y0L9sq32/amc.png" group-title="Czech/Slovak",AMC
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CS Film.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/rwG5yQLG/cs-film.png" group-title="Czech/Slovak",CS Film
-http://78.130.250.2:8023/play/a01z/index.m3u8
+http://185.188.188.237:5000/live/csfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="CS Horror.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/8cqLcY54/cs-horror.png" group-title="Czech/Slovak",CS Horror
-http://78.130.250.2:8023/play/a01z/index.m3u8
+http://185.188.188.237:5000/live/csfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="CS History.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/C5ZjF0Fd/cs-history.png" group-title="Czech/Slovak",CS History
-http://88.212.15.19/live/test_cs_history_avc_25p/playlist.m3u8
+http://212.102.38.45/live/test_cs_history_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CS Mystery.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/HLB5XnnV/cs-mystery.png" group-title="Czech/Slovak",CS Mystery
-http://88.212.15.19/live/test_cs_mystery_avc_25p/playlist.m3u8
+http://212.102.38.45/live/test_cs_mystery_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/gJmcKHwD/axn.png" group-title="Czech/Slovak",AXN
 http://88.212.15.19/live/test_axn/playlist.m3u8
@@ -168,16 +165,17 @@ http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
 http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="History Channel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/9FV9ywZp/history.png" group-title="Czech/Slovak", History Channel
 http://88.212.15.19/live/test_history/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/Bv75wgm9/history_2.png" group-title="Czech/Slovak", History Channel 2
-http://212.102.38.45/live/test_h2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Viasat Explore.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/59LVp3xq/Viasat-Explore.png" group-title="Czech/Slovak",Viasat Explore
 http://185.188.188.237:5000/live/viasatexplore/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat History.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/LXyHS4bk/Viasat-History.png" group-title="Czech/Slovak",Viasat History
-http://185.188.188.237:5000/live/viasathistory/playlist.m3u8
+http://185.188.188.237:5000/live/viasatnature/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",Viasat Nature
 http://185.188.188.237:5000/live/viasatnature/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanal 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://static.hnonline.sk/images/slike/2025/09/01/5954889.png" group-title="Czech/Slovak",Kanal 1
-http://212.102.38.45/live/test_upnetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="Viasat True Crime.cz" tvg-name="Viasat True Crime" tvg-logo="" group-title="Dokumentárne",Viasat True Crime
+http://46.149.191.219:9105/play/a03d
+#EXTINF:-1 tvg-id="Epic Drama.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/luvadcz/piconsserver/refs/heads/main/epicdrama.png" group-title="Všeobecné",Viasat Epic Drama
+http://46.149.191.219:9105/play/a01g
 
 #EXTINF:-1 tvg-id="Spektrum.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/sD37h64j/spektrum.png" group-title="Czech/Slovak",Spektrum
 http://88.212.15.19/live/test_spektrum/playlist.m3u8
@@ -192,25 +190,19 @@ http://88.212.15.29/live/test_ngw/playlist.m3u8
 #EXTINF:-1 tvg-id="Animal Planet.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/c1f4SdYC/animal-planet.png" group-title="Czech/Slovak",Animal Planet
 http://88.212.15.19/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Travel Channel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/sxzzXZSX/travel_channel.png" group-title="Czech/Slovak",Travel Channel
-http://88.212.15.19/live/test_travel_channel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Auto Motor Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/1t9sHqCq/auto-moto-sport.png" group-title="Czech/Slovak",Auto Motor und Sport Channel
-http://212.102.38.45/live/test_ams/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTV HD.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/y6pn7zHq/fashion-tv.png" group-title="Czech/Slovak",Fashion TV
-https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+http://212.102.38.45/live/test_travel_channel_hd_hevc/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Love Nature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/pLXfgGmG/love_nature.png" group-title="Czech/Slovak",Love Nature
 http://88.212.15.19/live/test_lovenature/playlist.m3u8
 #EXTINF:-1 tvg-id="HGTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/6qV9Lhwn/hgtv.png" group-title="Czech/Slovak",HGTV
-http://213.215.119.236:88/HGTV/index.m3u8
-#EXTINF:-1 tvg-id="E! Entertainment.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/L5F91Wdm/e-entertainment.png" group-title="Czech/Slovak",E! Entertainment
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=442&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
-#EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/GhBpd11N/sporty-tv.png" group-title="Czech/Slovak",Sporty TV
-https://dash2.antik.sk/live/sporty_tv/index.m3u8
-#EXTINF:-1 tvg-id="Mňam TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/HLL7tmfn/mnam.png" group-title="Czech/Slovak",Mnam TV
-http://185.236.230.212:9982/play/a08y
+http://46.149.191.217:9023/play/a014
+
+
+
 #EXTINF:-1 tvg-id="Paprika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/vTtnKfbw/paprika.png" group-title="Czech/Slovak",TV Paprika
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Food Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/cJcMjpmb/food-network.png" group-title="Czech/Slovak",Food Network
-http://lb.wisp.cat/lb0/CZ_Food_Network/video.m3u8?token=pavd6BI
+
 
 #EXTINF:-1 tvg-id="Retro Music.cz" tvg-logo="https://i.postimg.cc/SsK5C2gt/retro.png" group-title="Czech/Slovak",Retro Music
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -224,28 +216,24 @@ http://88.212.15.19/live/test_ocko_black/playlist.m3u8
 http://88.212.15.19/live/test_ocko_star/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nova Sport 1.cz" tvg-logo="https://i.postimg.cc/BQGLVHdd/nova_sport_1.png" group-title="Czech/Slovak",Nova Sport 1
-http://213.215.119.236:88/Nova_sport_1/index.m3u8
+http://185.188.188.237:5000/live/novasport1/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 2.cz" tvg-logo="https://i.postimg.cc/QVGWhW4n/nova_sport_2.png" group-title="Czech/Slovak",Nova Sport 2
-http://213.215.119.236:88/Nova_sport_2/index.m3u8
+http://185.188.188.237:5000/live/novasport2/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 3.cz" tvg-logo="https://i.postimg.cc/769HtJ0y/nova_sport_3.png" group-title="Czech/Slovak",Nova Sport 3
-http://213.215.119.236:88/Nova_sport_3/index.m3u8
+http://185.188.188.237:5000/live/novasport3/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 4.cz" tvg-logo="https://i.postimg.cc/fybwGWfS/nova_sport_4.png" group-title="Czech/Slovak",Nova Sport 4
-http://213.215.119.236:88/Nova_sport_4/index.m3u8
-#EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-logo="https://i.postimg.cc/y81JVB6j/nova_sport_5.png" group-title="Czech/Slovak",Nova Sport 5 CZ
+http://185.188.188.237:5000/live/novasport4/playlist.m3u8
+#EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-logo="https://i.postimg.cc/y81JVB6j/nova_sport_5.png" group-title="Czech/Slovak",Nova Sport 5
 http://185.188.188.237:5000/live/novasport5/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-logo="https://i.postimg.cc/fR8VyFJN/nova_sport_5_sk.png" group-title="Czech/Slovak",Nova Sport 5 SK
-https://176.116.105.82/NovaSport5_HD/index.m3u8
-#EXTINF:-1 tvg-id="Nova Sport 6.cz" tvg-logo="https://i.postimg.cc/QdH84xrj/nova-sport-6.png" group-title="Czech/Slovak",Nova Sport 6 FHD
-http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
-#EXTINF:-1 tvg-id="Nova Sport 6.cz" tvg-logo="https://i.postimg.cc/QdH84xrj/nova-sport-6.png" group-title="Czech/Slovak",Nova Sport 6
-http://116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-id="Nova Sport 6.cz" tvg-logo="https://i.postimg.cc/QdH84xrj/nova-sport-6.png" group-title="Czech/Slovak",Nova Sport 6 
+http://46.149.191.219:9109/play/a038
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4yfZzX5k/oneplay-sport-1.png" group-title="Czech/Slovak",ONEPLAY 1
-http://185.112.249.46:9981/stream/channelid/177253733?profile=passAdd commentMore actions
+http://45.129.141.180:9981/stream/channelid/177253733?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3JwYNJN2/oneplay-sport-2.png" group-title="Czech/Slovak",ONEPLAY 2
-http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
+http://45.129.141.180:9981/stream/channelid/1716506983?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PrFhwsv9/oneplay-sport-3.png" group-title="Czech/Slovak",ONEPLAY 3
-http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
+http://45.129.141.180:9981/stream/channelid/1597775099?profile=pass
 
 #EXTINF:-1 tvg-id="Sport1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/rmVc4ybZ/sport_1.png" group-title="Czech/Slovak",Sport 1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
@@ -256,27 +244,6 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/8s85QQKR/arena-sport-2.png" group-title="Czech/Slovak",Arena Sport 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/nrryMYrn/Eurosport-1.png" group-title="Czech/Slovak",Eurosport 1
-http://194.160.135.34:8088/udp/233.10.47.64:1234
-#EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/nrryMYrn/Eurosport-1.png" group-title="Czech/Slovak",Eurosport 1.2
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=661&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1742507476&shaping=0&eta=1&ets=1
-#EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/nrryMYrn/Eurosport-1.png" group-title="Czech/Slovak",Eurosport 1.3
-http://213.215.119.236:88/Eurosport1/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/rsHv40Rx/eurosport-2.png" group-title="Czech/Slovak",Eurosport 2
-http://194.160.135.34:8088/udp/233.10.47.65:1234
-#EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/rsHv40Rx/eurosport-2.png" group-title="Czech/Slovak",Eurosport 2.2
-https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=615&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
-#EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/rsHv40Rx/eurosport-2.png" group-title="Czech/Slovak",Eurosport 2.3
-http://213.215.119.236:88/Eurosport2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/3N3rz74q/skysport_f1_4k.png" group-title="Czech/Slovak",SkySport F1 4K
-http://188.227.186.127:8080/catena-17-1149961-streamer-f1-pit-lane/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/3N3rz74q/skysport_f1_4k.png" group-title="Czech/Slovak",Sky Sport F1 FHD UK
-https://32tech0steam0dp01.org/live/UK_SkySportF1FHD/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/ydmYfWd9/sky_sport_f1_hd.png" group-title="Czech/Slovak",SkySport F1
-http://cord-cutter.net:8080/live/95549031/69361122/35244.ts
-#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/KjN0Z79N/sky_sport_moto_gp.png" group-title="Czech/Slovak",SkySport Moto GP
-http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/75534
 
 #EXTINF:-1 tvg-id="VH1 🇺🇸" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
@@ -423,12 +390,52 @@ https://stream.bauermedia.sk/rock-hi.mp3
 
 
 
+
+
+
 #EXTINF:-1 tvg-id="Prima MAX.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/sDqVLrQ1/prima-max.png" group-title="Czech/Slovak",Prima MAX
 http://185.188.188.237:5000/live/primamax/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima SK.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/L5kXpQrG/prima-sk.png" group-title="Czech/Slovak",Prima SK
+http://149.100.19.130:8001/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="Auto Motor Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/1t9sHqCq/auto-moto-sport.png" group-title="Czech/Slovak",Auto Motor und Sport Channel
+http://212.102.38.45/live/test_ams/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTV HD.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.postimg.cc/y6pn7zHq/fashion-tv.png" group-title="Czech/Slovak",Fashion TV
+https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/L5F91Wdm/e-entertainment.png" group-title="Czech/Slovak",E! Entertainment
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=442&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+#EXTINF:-1 tvg-id="Mňam TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/HLL7tmfn/mnam.png" group-title="Czech/Slovak",Mnam TV
+http://185.236.230.212:9982/play/a08y
+#EXTINF:-1 tvg-id="Food Network.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/cJcMjpmb/food-network.png" group-title="Czech/Slovak",Food Network
+http://lb.wisp.cat/lb0/CZ_Food_Network/video.m3u8?token=pavd6BI
+
+#EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/nrryMYrn/Eurosport-1.png" group-title="Czech/Slovak",Eurosport 1
+http://194.160.135.34:8088/udp/233.10.47.64:1234
+#EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/nrryMYrn/Eurosport-1.png" group-title="Czech/Slovak",Eurosport 1.2
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=661&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12,profile13,profile14&changed_at=1742507476&shaping=0&eta=1&ets=1
+#EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/nrryMYrn/Eurosport-1.png" group-title="Czech/Slovak",Eurosport 1.3
+http://213.215.119.236:88/Eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/rsHv40Rx/eurosport-2.png" group-title="Czech/Slovak",Eurosport 2
+http://194.160.135.34:8088/udp/233.10.47.65:1234
+#EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/rsHv40Rx/eurosport-2.png" group-title="Czech/Slovak",Eurosport 2.2
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=615&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+#EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/rsHv40Rx/eurosport-2.png" group-title="Czech/Slovak",Eurosport 2.3
+http://213.215.119.236:88/Eurosport2/index.m3u8
+
+#EXTINF:-1 tvg-id="Sporty TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/GhBpd11N/sporty-tv.png" group-title="Czech/Slovak",Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/3N3rz74q/skysport_f1_4k.png" group-title="Czech/Slovak",SkySport F1 4K
+http://188.227.186.127:8080/catena-17-1149961-streamer-f1-pit-lane/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/3N3rz74q/skysport_f1_4k.png" group-title="Czech/Slovak",Sky Sport F1 FHD UK
+https://32tech0steam0dp01.org/live/UK_SkySportF1FHD/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/ydmYfWd9/sky_sport_f1_hd.png" group-title="Czech/Slovak",SkySport F1
+http://cord-cutter.net:8080/live/95549031/69361122/35244.ts
+#EXTINF:-1 tvg-id="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/KjN0Z79N/sky_sport_moto_gp.png" group-title="Czech/Slovak",SkySport Moto GP
+http://backup.gradina2.info:80/kanaliURedirect2442OttShow/LVenCPbKrpbxXzrEjRJgure0/75534
 
 
-
-
+#EXTINF:-1 tvg-id="Spark TV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/9XyT4YR0/spark.png" group-title="Czech/Slovak",Kanal 1
+http://88.212.15.19/live/test_upnetwork/playlist.m3u8
 
 
 
