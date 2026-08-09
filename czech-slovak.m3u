@@ -218,13 +218,13 @@ http://88.212.15.19/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 1.cz" tvg-logo="https://i.postimg.cc/BQGLVHdd/nova_sport_1.png" group-title="Czech/Slovak",Nova Sport 1
 http://185.188.188.237:5000/live/novasport1/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 2.cz" tvg-logo="https://i.postimg.cc/QVGWhW4n/nova_sport_2.png" group-title="Czech/Slovak",Nova Sport 2
-http://185.188.188.237:5000/live/novasport2/playlist.m3u8
+http://46.149.191.219:9106/play/a003
 #EXTINF:-1 tvg-id="Nova Sport 3.cz" tvg-logo="https://i.postimg.cc/769HtJ0y/nova_sport_3.png" group-title="Czech/Slovak",Nova Sport 3
 http://185.188.188.237:5000/live/novasport3/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 4.cz" tvg-logo="https://i.postimg.cc/fybwGWfS/nova_sport_4.png" group-title="Czech/Slovak",Nova Sport 4
 http://185.188.188.237:5000/live/novasport4/playlist.m3u8
 #EXTINF:-1 tvg-id="Nova Sport 5.cz" tvg-logo="https://i.postimg.cc/y81JVB6j/nova_sport_5.png" group-title="Czech/Slovak",Nova Sport 5
-http://185.188.188.237:5000/live/novasport5/playlist.m3u8
+http://46.149.191.219:9106/play/a01l
 #EXTINF:-1 tvg-id="Nova Sport 6.cz" tvg-logo="https://i.postimg.cc/QdH84xrj/nova-sport-6.png" group-title="Czech/Slovak",Nova Sport 6 
 http://46.149.191.219:9109/play/a038
 
