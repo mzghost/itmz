@@ -244,6 +244,10 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/8s85QQKR/arena-sport-2.png" group-title="Czech/Slovak",Arena Sport 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport 1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/nrryMYrn/Eurosport-1.png" group-title="Czech/Slovak",Eurosport 1
+http://45.129.141.180:9981/stream/channelid/718615486?profile=pass
+#EXTINF:-1 tvg-id="Eurosport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/rsHv40Rx/eurosport-2.png" group-title="Czech/Slovak",Eurosport 2
+http://45.129.141.180:9981/stream/channelid/737993602?profile=pass
 
 #EXTINF:-1 tvg-id="VH1 🇺🇸" tvg-country="CZ" tvg-language="Czech" tvg-logo="" group-title="Czech/Slovak",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
