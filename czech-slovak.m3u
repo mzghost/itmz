@@ -169,6 +169,8 @@ http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
 http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="History Channel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/9FV9ywZp/history.png" group-title="Czech/Slovak", History Channel
 http://88.212.15.19/live/test_history/playlist.m3u8
+#EXTINF:-1 tvg-id="History Channel 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/Bv75wgm9/history-2.png" group-title="Czech/Slovak", History Channel 2
+http://88.212.15.19/live/test_h2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Viasat Explore.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/59LVp3xq/Viasat-Explore.png" group-title="Czech/Slovak",Viasat Explore
 http://185.188.188.237:5000/live/viasatexplore/playlist.m3u8
