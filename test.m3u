@@ -1,1 +1,5 @@
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/czech3.xml.gz"
+#EXTM3U url-tvg="https://www.open-epg.com/files/czech3.xml.gz"
 
+#EXTINF:-1 tvg-id="ČT1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/fLryC0Yg/ct-1.png" group-title="Czech/Slovak",ČT 1
+https://ts0-pl.as.4net.tv/hls/media/live.m3u8?auth=DVQqJQ5CXF5cXUxFVE1QRlddG1NeVBdMRgFDD1NfQRlFXF1PVFlQWFBdEVRETUZSQ0JTXEoZFQlWHwdQVVc&channel=643&device=9c1dd47ba6da0d9febab137b98dbcc74&profile=h264hd11&shaping=1
